@@ -1,11 +1,9 @@
 # Como configurar o Jupyter Notebook no VS Code (com ambiente virtual e kernels)
 
-```markdown
-# Configuração de Projeto Python com Ambiente Virtual e Jupyter Notebook
 
 Este guia fornece instruções passo a passo para configurar um projeto Python, criar e ativar um ambiente virtual, instalar o `ipykernel`, configurar um kernel personalizado no Jupyter Notebook e integrar tudo no VS Code.
 
----
+
 
 ## **Pré-requisitos**
 
